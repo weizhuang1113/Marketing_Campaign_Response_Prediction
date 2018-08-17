@@ -1,3 +1,3 @@
 # Marketing_Campaign_Response_Prediction
-通过数据预测在下一次营销活动时，响应活动会员的具体名单和响应概率，以此来制定针对性的营销策略。
+基于Adaboost算法,预测在下一次营销活动时，响应活动会员的具体名单和响应概率。
 
